@@ -52,7 +52,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 * *Case*: Training human data labelers in a complex organizational ecosystem
 
-* [Slides]() | [Case]()
+* [Slides] | [Case]
 
 :blue_book: **Lecture 3 - Supervised Learning II and Unsupervised Learning**
 
