@@ -37,7 +37,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 :blue_book: **Lecture 1 - Learning and Decision Making
 **
 
-* *Guiding question*: How can policymakers and engineers jointly establish the most reliable, consistent paths of decision-making? How can we assess whether these are “good” paths? What are the relevant dimensions of “good” in a given strategic setting? What are the fundamental limitations of decision-making, from both human and algorithmic perspectives? What aspects can be improved? What problems do we face in instituting decision-making practices, specifically given differences in human and machine decision-making?
+* *Guiding questions*: How can policymakers and engineers jointly establish the most reliable, consistent paths of decision-making? How can we assess whether these are “good” paths? What are the relevant dimensions of “good” in a given strategic setting? What are the fundamental limitations of decision-making, from both human and algorithmic perspectives? What aspects can be improved? What problems do we face in instituting decision-making practices, specifically given differences in human and machine decision-making?
 
 * *Topics covered*: Types and measures of learning, approximation, complexity, efficiency, rule-based algorithms
 
@@ -57,7 +57,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 :blue_book: **Lecture 3 - Supervised Learning II and Unsupervised Learning**
 
-* *Guiding question*: Based on our findings, what can we and can’t we learn from unsupervised learning? How can we connect supervised and unsupervised machine learning to optimize our own understanding of policy or strategy issues? Looking ahead to our next section: how does machine learning compare to human learning?
+* *Guiding questions*: Based on our findings, what can we and can’t we learn from unsupervised learning? How can we connect supervised and unsupervised machine learning to optimize our own understanding of policy or strategy issues? Looking ahead to our next section: how does machine learning compare to human learning?
 
 * *Topics covered*: Learning about data, principle component analysis (PCA), K-means clustering, ensemble methods, differences between human and machine learning
 
@@ -67,7 +67,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 :blue_book: **Lecture 4 - Reinforcement Learning**
 
-* *Guiding question*: How can machines learn from interacting with the environment? With what  limitations and risks? What are the key tradeoffs involved in reinforcement learning? How do they parallel and diverge from human learning? How can human-machine teaming be leveraged – and to what ends?
+* *Guiding questions*: How can machines learn from interacting with the environment? With what  limitations and risks? What are the key tradeoffs involved in reinforcement learning? How do they parallel and diverge from human learning? How can human-machine teaming be leveraged – and to what ends?
 
 * *Topics covered*: Dynamic data acquisition, goals and rewards, exploration vs exploitation, online vs offline learning, model-based vs model-free learning, human-machine teaming
 
@@ -77,7 +77,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 :blue_book: **Lecture 5 - Neural Networks I**
 
-* *Guiding question*: How do neural networks operate? How can they be designed to implement a range of learning types? What are the requirements for neural networks to perform well, and how does this enable or constrain them in tackling strategic and policy issues?
+* *Guiding questions*: How do neural networks operate? How can they be designed to implement a range of learning types? What are the requirements for neural networks to perform well, and how does this enable or constrain them in tackling strategic and policy issues?
 
 * *Topics covered*: Understanding the design of the Perceptron
 
@@ -87,7 +87,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 :blue_book: **Lecture 6 - Neural Networks II and Operational Aspects of AI**
 
-*Guiding question*: What key data risks do we face when implementing machine learning? What algorithmic risks? As a policy or strategy professional, what tradeoffs may be most essential for your assessment of deployed neural network systems? In what scenarios might you commission a neural network versus another machine learning system? Using the foundations learned in this course, what next steps should you take as a policy or strategy professional interested in the future of machine learning?
+*Guiding questions*: What key data risks do we face when implementing machine learning? What algorithmic risks? As a policy or strategy professional, what tradeoffs may be most essential for your assessment of deployed neural network systems? In what scenarios might you commission a neural network versus another machine learning system? Using the foundations learned in this course, what next steps should you take as a policy or strategy professional interested in the future of machine learning?
 
 * *Topics covered*: Feature selection, hyperparameter tuning, biasvariance trade-off, transparency, interoperability, safety
 
