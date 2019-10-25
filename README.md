@@ -16,7 +16,7 @@ ___
 
 * [Logistics](https://github.com/capsseminar/Fall-2019/blob/master/README.md#logistics)
 * [Syllabus](https://github.com/capsseminar/Fall-2019/blob/master/README.md#syllabus)
-* [Course Material and Overview](https://github.com/capsseminar/Fall-2019/blob/master/README.md#course-materials-and-overview)
+* [Course Materials and Overview](https://github.com/capsseminar/Fall-2019/blob/master/README.md#course-materials-and-overview)
 * [Skills Course Policy](https://github.com/capsseminar/Fall-2019/blob/master/README.md#skills-course-policy)
 * [Team and Contact](https://github.com/capsseminar/Fall-2019/blob/master/README.md#team-and-contact)
 
