@@ -34,8 +34,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 ### Course Materials and Overview
 
-:blue_book: **Lecture 1 - Learning and Decision Making
-**
+:blue_book: **Lecture 1 - Learning and Decision Making**
 
 * *Guiding questions*: How can policymakers and engineers jointly establish the most reliable, consistent paths of decision-making? How can we assess whether these are “good” paths? What are the relevant dimensions of “good” in a given strategic setting? What are the fundamental limitations of decision-making, from both human and algorithmic perspectives? What aspects can be improved? What problems do we face in instituting decision-making practices, specifically given differences in human and machine decision-making?
 
@@ -87,7 +86,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 :blue_book: **Lecture 6 - Neural Networks II and Operational Aspects of AI**
 
-*Guiding questions*: What key data risks do we face when implementing machine learning? What algorithmic risks? As a policy or strategy professional, what tradeoffs may be most essential for your assessment of deployed neural network systems? In what scenarios might you commission a neural network versus another machine learning system? Using the foundations learned in this course, what next steps should you take as a policy or strategy professional interested in the future of machine learning?
+* *Guiding questions*: What key data risks do we face when implementing machine learning? What algorithmic risks? As a policy or strategy professional, what tradeoffs may be most essential for your assessment of deployed neural network systems? In what scenarios might you commission a neural network versus another machine learning system? Using the foundations learned in this course, what next steps should you take as a policy or strategy professional interested in the future of machine learning?
 
 * *Topics covered*: Feature selection, hyperparameter tuning, biasvariance trade-off, transparency, interoperability, safety
 
