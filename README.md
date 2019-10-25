@@ -14,11 +14,11 @@ ___
 
 ### Contents
 
+* [Logistics](https://github.com/capsseminar/Fall-2019/blob/master/README.md#logistics)
 * [Syllabus](https://github.com/capsseminar/Fall-2019/blob/master/CAPS_Syllabus_Fall19.pdf)
-* [Logistics](https://github.com/capsseminar/Course-material/blob/master/README.md#logistics)
-* [Course Material and Overview](https://github.com/capsseminar/Course-material/blob/master/README.md#course-materials-and-overview)
-* [Skills Course Policy](https://github.com/capsseminar/Course-material/blob/master/README.md#skills-course-policy)
-* [Team and Contact](https://github.com/capsseminar/Course-material/blob/master/README.md#team-and-contact)
+* [Course Material and Overview](https://github.com/capsseminar/Fall-2019/blob/master/README.md#course-materials-and-overview)
+* [Skills Course Policy](https://github.com/capsseminar/Fall-2019/blob/master/README.md#skills-course-policy)
+* [Team and Contact](https://github.com/capsseminar/Fall-2019/blob/master/README.md#team-and-contact)
 
 ___
 
