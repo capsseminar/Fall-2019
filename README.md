@@ -15,7 +15,7 @@ ___
 ### Contents
 
 * [Logistics](https://github.com/capsseminar/Fall-2019/blob/master/README.md#logistics)
-* [Syllabus](https://github.com/capsseminar/Fall-2019/blob/master/CAPS_Syllabus_Fall19.pdf)
+* [Syllabus](https://github.com/capsseminar/Fall-2019/blob/master/README.md#syllabus)
 * [Course Material and Overview](https://github.com/capsseminar/Fall-2019/blob/master/README.md#course-materials-and-overview)
 * [Skills Course Policy](https://github.com/capsseminar/Fall-2019/blob/master/README.md#skills-course-policy)
 * [Team and Contact](https://github.com/capsseminar/Fall-2019/blob/master/README.md#team-and-contact)
@@ -30,7 +30,7 @@ CAPS takes place over six weeks, with one 90 minute session each Tuesday. The fi
 
 ### Syllabus
 
-A pdf version of the syllabus can be found [here](https://github.com/capsseminar/Fall-2019/blob/master/CAPS_Syllabus_Fall19.pdf) (last updated, October 7 2019).
+A pdf version of the syllabus can be found [here](https://github.com/capsseminar/Fall-2019/blob/master/CAPS_Syllabus_Fall19.pdf) (last updated, October 7, 2019).
 
 ### Course Materials and Overview
 
