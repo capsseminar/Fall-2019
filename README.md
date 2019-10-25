@@ -104,8 +104,4 @@ For the course to appear on one’s trascript, they must attend all sessions. If
 
 CAPS is created and taught by SAIS MAs Leo Klenner, Henry Fung, and Cory Combs. 
 
-The course is sponsored by Sarah Sewall, Former Undersecretary of State for Civilian Secuirty, Democracy and Human Rights (2014-2017) and Speyer Family Foundation Distinguished Scholar at the Henry A. Kissinger Center for Global Affairs.
-
-CAPS is funded through a grant from Johns Hopkins Technology Ventures.
-
 :email: To contact us, reach out to [capsseminar@gmail.com](mailto:capsseminar@gmail.com).
