@@ -42,7 +42,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 * *Case*: Analyzing patterns of learning in a counterinsurgency team
 
-* [Slides]() | [Case](https://github.com/capsseminar/Fall-2019/blob/master/Case1.pdf)
+* [Slides] | [Case](https://github.com/capsseminar/Fall-2019/blob/master/Case1.pdf)
 
 :blue_book: **Lecture 2 - Supervised Learning I**
 
@@ -62,7 +62,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 * *Case*: Deploying an autonomous supply agent to assist a human team
 
-* [Slides]() | [Case]()
+* [Slides] | [Case]
 
 :blue_book: **Lecture 4 - Reinforcement Learning**
 
@@ -72,7 +72,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 * *Case*: Reverse engineering the agency of an unknown aerial vehicle
 
-* [Slides]() | [Case]()
+* [Slides] | [Case]
 
 :blue_book: **Lecture 5 - Neural Networks I**
 
@@ -82,7 +82,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 * *Case*: Training a simple neural net in Python and Google Colaboratory
 
-* [Slides]() | [Case]()
+* [Slides] | [Case]
 
 :blue_book: **Lecture 6 - Neural Networks II and Operational Aspects of AI**
 
@@ -92,7 +92,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 * *Case*: Devising levels of stakeholder access to an advanced AI-based model
 
-* [Slides]() | [Case]()
+* [Slides] | [Case]
 
 ### Skills Course Policy
 
