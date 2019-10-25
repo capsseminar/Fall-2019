@@ -42,7 +42,7 @@ A pdf version of the syllabus can be found [here](https://github.com/capsseminar
 
 * *Case*: Analyzing patterns of learning in a counterinsurgency team
 
-* [Slides] | [Case](https://github.com/capsseminar/Fall-2019/blob/master/Case1.pdf)
+* [Slides] | [Case](https://github.com/capsseminar/Fall-2019/blob/master/Docs/Case1.pdf)
 
 :blue_book: **Lecture 2 - Supervised Learning I**
 
